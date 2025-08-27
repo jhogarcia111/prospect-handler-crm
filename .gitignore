@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+dist/
+build/
+.env
+__pycache__/
+*.pyc
+backend/venv/
+frontend/node_modules/
+frontend/.pnpm-store/
+
+
